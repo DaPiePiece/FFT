@@ -1,0 +1,14 @@
+0
+1
+0
+3
+0.01
+
+#frquency flag. 0 is one frequency (~1.95), 1 is two frquencies, the second being the quadruple of nu_1
+#truncation flag. 0 is a gate functiomn, 1 is a gaussian function, both centred at the truncation point
+#read flag. 0 is for a generated function, 1 is for a file input
+#t to the power of n. Can be 1,2 or 3, goes directly into the cosine function
+#h sample step, directely responsible for the time domain and the frequency domain sizes
+
+
+audio file sampled at 1/22050 =~ 0.00005
